@@ -1,0 +1,14 @@
+Comandos git
+
+git init inicia o repositório
+git add . adicionar os itens
+git status verificar se foi adicionado
+git commit -m "Colocar nome do projeto caso queira"
+colocar o comando do repositírio
+
+
+
+git push origin main - projeto na main
+
+
+cmdkey /delete:LegacyGeneric:target=git:https://github.com - caso tenha alguma outra conta do git no cmd, com esse comando podemos alterar a conta.
